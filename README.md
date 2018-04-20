@@ -14,3 +14,40 @@ This assignments consists of the following steps:
 1. Building the electronic circuitry.
 1. Building the chassis and mechanical components.
 1. Tuning and calibrating electronic and mechanical systems for different robotic behaviours.
+
+### Circuit
+![Circuit](circuit.png)
+
+Tips for circuit design:
+* As you are building the circuit keep the design of your chassi in mind, e.g. a large breadboard will need a larger chassi, what is the best location for the photoresistors on the breadboard, etc.
+* Keep wiring snug to the board (no big loops) to avoid wires getting snagged.
+* Minimize the amount of wiring - every wire is a potential; point of failure
+* Build your circuit compact and robust as it will be knocked around in the robot. 
+* Make sure the hookup wires going from the motors and to the breadboard are long enough to allow you to position the motors correctly them in the chassi.
+
+### Chassi
+The chassi for the robot has to be well-designed and it needs to make good use of the approved materials. The design also needs to be innovative and it obviously needs to work properly with the robot circuit. You will be provided with one hardboard and one castor wheel for our chassi. In addition you can also use the following materials:
+
+* cardboard
+* salvaged parts from tELT1030: Conversion & Distribution. he teardown project
+* paper rolls (from toilet paper or paper tissues)
+* boxes (e.g. from tissue)
+* Styrofoam
+* lids from milk jugs and jars
+* food containers (cans, tins, cups, etc)
+* tupperware
+* rubber bands
+* string, glue, tape
+
+Do not use the following materials:
+* glass
+* Building kits (e.g. LEGO, etc)
+* Prebuild vehicles or vehicle parts (toy cars, wheels etc)
+
+Tips for chassi design:
+* The body of the robot needs to be sturdy and reinforced properly, particularly if you are using cardboard. Having bumpers is a good idea as your robot will be bumping into things.
+* Be mindful of the center of gravity. If your breadboard and motors are placed all the way to the front of the robot there is a risk that the robot might end up being front heavy and have a tendency to tip over.
+* You need a minimum of two wheels + a third contact point with the ground. The wheels need to be solidly attached to the motor axle. Make sure the wheels are grippy enough to not slip on the floor when running
+* Your robot will be marked on attractiveness and innovative design so make sure you build it neat, use colors and decorate it.
+* During construction and testing the robot will be powered by your battery pack. During marking the robot will be powered by an external power supply connected to the breadboard.
+
