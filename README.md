@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Breitenberg Vehicle Robot
+In this assignment you will build a robotic vehicle that is able to sense the amount of light from a light source in its surroundings and respond to it. The design for this robot was originally proposed by the italian scientist Valentino Braitenberg; hence we call it the Braitenberg Vehicle Robot or BV-Bot for short. BV-Bot are simple mobile robots where the motion and behaviour of the robot is directly controlled by sensors (for example photocells), yet the resulting behaviour may appear complex or even intelligent. BV-Bots can exhibit human-like behaviors similar to aggression and attraction. BV-Bots are unique in that the source of its behaviour is inherent in its electronic circuitry without the need for programing it showing that complex behaviours do not require complex mechanical or electronic system.
 
-You can use the [editor on GitHub](https://github.com/mariopineda/braitenberg-vehicle-robot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## BV Bot Behaviour
+The BV-Bot is a simple robot. It shows that by simply reacting to what is sensed from the environment, a robot can demonstrate behavior that appears intelligent. The BV-Bot consists of two light sensors on the front and two small motors on the sides. Each motor has a wheel on its shaft. With its two light sensors, BV-Bots measure the amount of light from a light source in its surrounding. Depending on how the sensors are connected to the motors the robot exhibits different types of behaviours. Here is a video introducing the concept of BV-Bots (https://youtu.be/A-fxij3zM7g) and and here is a Scratch simulation (https://scratch.mit.edu/projects/19542889/) allowing you to explore the different types of behaviours they are capable of.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![BV Bot Behaviour](bvbotbehaviour.png)
 
-### Markdown
+The left and right light sensors generate voltages that are proportional to the amount of light they receive. The output voltage of each sensor is amplified and is applied to each of the two motors on the left and right sides of the robot. The left and right sensors’ output can be connected straight to the left and right motors, respectively, or in a crossed form. Depending how the sensors are connected to the motors, the robot will show different behaviors and will either be attracted to the light source or turn away from it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariopineda/braitenberg-vehicle-robot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Instructions
+This assignments consists of the following steps:
+1. Review of the features and capabilities of BV-Bots.
+1. Building the electronic circuitry.
+1. Building the chassis and mechanical components.
+1. Tuning and calibrating electronic and mechanical systems for different robotic behaviours.
