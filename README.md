@@ -4,7 +4,7 @@ In this assignment you will build a robotic vehicle that is able to sense the am
 ## BV Bot Behaviour
 The BV-Bot is a simple robot. It shows that by simply reacting to what is sensed from the environment, a robot can demonstrate behavior that appears intelligent. The BV-Bot consists of two light sensors on the front and two small motors on the sides. Each motor has a wheel on its shaft. With its two light sensors, BV-Bots measure the amount of light from a light source in its surrounding. Depending on how the sensors are connected to the motors the robot exhibits different types of behaviours. Here is a video introducing the concept of BV-Bots (https://youtu.be/A-fxij3zM7g) and and here is a Scratch simulation (https://scratch.mit.edu/projects/19542889/) allowing you to explore the different types of behaviours they are capable of.
 
-![BV Bot Behaviour](bvbotbehaviour.png)
+![BV Bot Behaviour](images/bvbotbehaviour.png)
 
 The left and right light sensors generate voltages that are proportional to the amount of light they receive. The output voltage of each sensor is amplified and is applied to each of the two motors on the left and right sides of the robot. The left and right sensors’ output can be connected straight to the left and right motors, respectively, or in a crossed form. Depending how the sensors are connected to the motors, the robot will show different behaviors and will either be attracted to the light source or turn away from it.
 
@@ -16,7 +16,7 @@ This assignments consists of the following steps:
 1. Tuning and calibrating electronic and mechanical systems for different robotic behaviours.
 
 ### Circuit
-![Circuit](circuit.png)
+![Circuit](images/circuit.png)
 
 Tips for circuit design:
 * As you are building the circuit keep the design of your chassi in mind, e.g. a large breadboard will need a larger chassi, what is the best location for the photoresistors on the breadboard, etc.
