@@ -51,3 +51,21 @@ Tips for chassi design:
 * Your robot will be marked on attractiveness and innovative design so make sure you build it neat, use colors and decorate it.
 * During construction and testing the robot will be powered by your battery pack. During marking the robot will be powered by an external power supply connected to the breadboard.
 
+# Rubric
+## Evidence of Progress & Effort
+Class time has been used efficiently. On task focused work most of the time. Demonstrate team working skills.
+
+## Positive attitude and behaviours
+Active and engaged participation and problem solving. Efficient and organized management of information and materials. Evidence of effort to learn the material and do the assignment independently (not copying someone else’s assignment or having another person do the assignment).
+
+## BV-Bot circuit
+Robust and well-designed and works as intended. Robot runs as intended using the default circuit and it is evident that student is able troubleshoot and fix "behavioural issues" (in the robot). Light attraction circuit. Student is able to rewire their robot to exhibit attraction avoidance. Additional functionality has been incorporated.
+
+## Chassi Construction
+Well-designed, good use of materials, innovative and evidence that thought has gone into designing and building the chassi. Works as intended.
+
+## Appearance
+Robot is attractive, has a unified and consistent look.
+
+## Knowledge
+Ability to answer questions and provide logical and complete explanations of robot hardware. Ability to troubleshoot issues.
