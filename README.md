@@ -51,6 +51,10 @@ Tips for chassi design:
 * Your robot will be marked on attractiveness and innovative design so make sure you build it neat, use colors and decorate it.
 * During construction and testing the robot will be powered by your battery pack. During marking the robot will be powered by an external power supply connected to the breadboard.
 
+## BV Bot Criteria
+* Robot circuit needs to be easily accessible for inspection and modification
+* Robot has to include an supplementary circuit "doing something else" other than controling the robot (e.g. vlinking LEDs, etc).
+
 # Rubric
 **Evidence of Progress & Effort**
 Class time has been used efficiently. On task focused work most of the time. Demonstrate team working skills.
