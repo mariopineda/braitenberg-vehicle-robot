@@ -53,7 +53,7 @@ Tips for chassi design:
 
 ## BV Bot Criteria
 * Robot circuit needs to be easily accessible for inspection and modification
-* Robot has to include an supplementary circuit "doing something else" other than controling the robot (e.g. vlinking LEDs, etc).
+* Robot has to include an supplementary circuit "doing something else" other than controling the robot (e.g. blinking LEDs, etc).
 
 # Rubric
 **Evidence of Progress & Effort**
