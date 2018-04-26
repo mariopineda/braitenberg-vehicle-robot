@@ -48,6 +48,7 @@ Do **not** use the following materials:
 * You need a minimum of two wheels + a third contact point with the ground. 
 * Your robot will be marked on attractiveness and innovative design (it has to be neat-looking, use colors and decorate it).
 * During construction and testing the robot will be powered by your battery pack. 
+* The breadboard cannot be glued or permanently attached to the chassi (you need to be able to take out the breadboard intact).
 
 # Rubric
 **Evidence of Progress & Effort**
