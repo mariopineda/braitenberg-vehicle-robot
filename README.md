@@ -1,4 +1,4 @@
-# Breitenberg Vehicle Robot
+# Braitenberg Vehicle Robot
 In this assignment you will build a robotic vehicle that is able to sense the amount of light from a light source in its surroundings and respond to it. The design for this robot was originally proposed by the italian scientist [Valentino Braitenberg](https://en.wikipedia.org/wiki/Valentino_Braitenberg); hence we call it the [Braitenberg Vehicle](https://en.wikipedia.org/wiki/Braitenberg_vehicle) Robot or BV-Bot for short. BV-Bot are simple mobile robots where the motion and behaviour of the robot is directly controlled by sensors (for example photocells), yet the resulting behaviour may appear complex or even intelligent. BV-Bots can exhibit human-like behaviors similar to aggression and attraction. BV-Bots are unique in that the source of its behaviour is inherent in its electronic circuitry without the need for programing it showing that complex behaviours do not require complex mechanical or electronic system.
 
 ## BV Bot Behaviour
