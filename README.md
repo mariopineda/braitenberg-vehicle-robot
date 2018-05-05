@@ -22,7 +22,7 @@ The left and right light sensors generate voltages that are proportional to the 
 * Robot has to include an supplementary circuit "doing something else" other than controlling the robot (e.g. blinking LEDs, etc).
 
 ## Chassi
-The chassi for the robot has to be well-designed and it needs to make good use of the approved materials. The design also needs to be innovative and needs to work properly with the robot circuit and the mechanical (moving) parts. You will be provided with one hardboard and one castor wheel for our chassi. In addition you can also use the following materials:
+The robot chassi has to be well-designed and make good use of the approved materials. The design needs to be innovative and needs to work properly with the robot circuit and the mechanical (moving) parts. You will be provided with one hardboard and one castor wheel for our chassi. You can also use the following materials:
 
 * cardboard
 * salvaged parts from the teardown project
@@ -37,18 +37,18 @@ The chassi for the robot has to be well-designed and it needs to make good use o
 * wood/lumber
 * 3D printed parts
 
-Do **not** use the following materials:
+You are not allowed to use the following materials:
 * glass
-* Building kits (e.g. LEGO, etc)
-* Prebuild vehicles or vehicle parts (toy cars, wheels etc)
+* building kits (e.g. LEGO, etc)
+* prebuild vehicles or vehicle parts (toy cars, wheels etc)
 
 ### Chassi Criteria
 * The chassi of the robot needs to be sturdy and reinforced properly, particularly if you are using cardboard. Having bumpers is a good idea as your robot might be bumping into things.
 * Be mindful of the center of gravity. If your breadboard and motors are placed all the way to the front of the robot there is a risk that the robot might end up being front heavy and have a tendency to tip over.
-* You need a minimum of two wheels + a third contact point with the ground. 
-* Your robot will be marked on attractiveness and innovative design (it has to be neat-looking, use colors and decorate it).
+* The robot needs to have two powered wheels and a castor wheel for the third contact point. 
+* Your robot will be marked on attractiveness and innovative design (it has to be neat-looking. Tip: use colors and decorate it).
 * During construction and testing the robot will be powered by your battery pack. 
-* The breadboard cannot be glued or permanently attached to the chassi (you need to be able to take out the breadboard intact).
+* The breadboard cannot be glued or permanently attached to the chassi as this will damage the breadboard.
 
 # Rubric
 **Evidence of Progress & Effort**
